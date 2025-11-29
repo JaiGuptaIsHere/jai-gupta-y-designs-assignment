@@ -37,8 +37,8 @@ A modern, fully-featured user management and analytics dashboard built with Reac
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd user-dashboard
+git clone https://github.com/JaiGuptaIsHere/jai-gupta-y-designs-assignment
+cd jai-gupta-y-designs-assignment
 ```
 
 2. **Install dependencies**
